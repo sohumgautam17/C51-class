@@ -1,0 +1,33 @@
+h1{
+    color:orange;
+}
+p{
+    color:red;
+    
+}
+
+
+.header{
+    background-color:cadetblue;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap
+}
+p,h2{
+    text-align:center;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+
+body{
+    background-color: #808080;
+}
